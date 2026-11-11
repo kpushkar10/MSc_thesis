@@ -1,1 +1,14 @@
+# downloaded SoccerNet videos, labels and extracted audio (far too big for git)
+data/
 
+# personal chunk-by-chunk learning plan
+PLAN_CHUNKS.md
+
+# Python virtual environment (recreate with: pip install -r requirements.txt)
+venv/
+
+# macOS folder display settings (not part of the project)
+.DS_Store
+
+# dummy files, not used in the pipeline
+# dummys/

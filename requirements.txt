@@ -1,0 +1,7 @@
+SoccerNet
+librosa
+soundfile
+numpy
+scipy
+pandas
+matplotlib
