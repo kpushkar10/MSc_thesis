@@ -1,0 +1,501 @@
+game,league,season,home,away,score,score_goals,labelled_goals,eligible
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,england_epl,2014-2015,Chelsea,Burnley,1 - 1,2,2,True
+england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,england_epl,2014-2015,Crystal Palace,Arsenal,1 - 2,3,3,True
+england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,england_epl,2014-2015,Swansea,Manchester United,2 - 1,3,3,True
+england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,england_epl,2014-2015,Southampton,Liverpool,0 - 2,2,2,True
+england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,england_epl,2015-2016,Chelsea,Swansea,2 - 2,4,4,True
+england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,england_epl,2015-2016,Chelsea,Crystal Palace,1 - 2,3,3,True
+england_epl/2015-2016/2015-08-29 - 17-00 Manchester City 2 - 0 Watford,england_epl,2015-2016,Manchester City,Watford,2 - 0,2,2,True
+england_epl/2015-2016/2015-09-12 - 14-45 Everton 3 - 1 Chelsea,england_epl,2015-2016,Everton,Chelsea,3 - 1,4,4,True
+england_epl/2015-2016/2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,england_epl,2015-2016,Crystal Palace,Manchester City,0 - 1,1,1,True
+england_epl/2015-2016/2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,england_epl,2015-2016,Manchester City,West Ham,1 - 2,3,3,True
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,england_epl,2015-2016,Liverpool,Aston Villa,3 - 2,5,5,True
+england_epl/2015-2016/2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,england_epl,2015-2016,Chelsea,Aston Villa,2 - 0,2,2,True
+england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,england_epl,2015-2016,Chelsea,Liverpool,1 - 3,4,4,True
+england_epl/2015-2016/2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,england_epl,2015-2016,Manchester United,West Brom,2 - 0,2,2,True
+england_epl/2015-2016/2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,england_epl,2015-2016,Manchester City,Liverpool,1 - 4,5,5,True
+england_epl/2015-2016/2015-11-29 - 15-00 Tottenham 0 - 0 Chelsea,england_epl,2015-2016,Tottenham,Chelsea,0 - 0,0,0,False
+england_epl/2015-2016/2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,england_epl,2015-2016,Chelsea,Bournemouth,0 - 1,1,1,True
+england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,england_epl,2015-2016,Chelsea,Sunderland,3 - 1,4,4,True
+england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,england_epl,2015-2016,Manchester City,Sunderland,4 - 1,5,5,True
+england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,england_epl,2015-2016,Crystal Palace,Chelsea,0 - 3,3,3,True
+england_epl/2015-2016/2016-01-13 - 22-45 Chelsea 2 - 2 West Brom,england_epl,2015-2016,Chelsea,West Brom,2 - 2,4,4,True
+england_epl/2015-2016/2016-02-07 - 19-00 Chelsea 1 - 1 Manchester United,england_epl,2015-2016,Chelsea,Manchester United,1 - 1,2,2,True
+england_epl/2015-2016/2016-02-14 - 19-15 Manchester City 1 - 2 Tottenham,england_epl,2015-2016,Manchester City,Tottenham,1 - 2,3,3,True
+england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,england_epl,2015-2016,Liverpool,Manchester City,3 - 0,3,3,True
+england_epl/2015-2016/2016-03-05 - 18-00 Chelsea 1 - 1 Stoke City,england_epl,2015-2016,Chelsea,Stoke City,1 - 1,2,2,True
+england_epl/2015-2016/2016-03-19 - 18-00 Chelsea 2 - 2 West Ham,england_epl,2015-2016,Chelsea,West Ham,2 - 2,4,4,True
+england_epl/2015-2016/2016-04-09 - 17-00 Swansea 1 - 0 Chelsea,england_epl,2015-2016,Swansea,Chelsea,1 - 0,1,1,True
+england_epl/2015-2016/2016-04-09 - 19-30 Manchester City 2 - 1 West Brom,england_epl,2015-2016,Manchester City,West Brom,2 - 1,3,3,True
+england_epl/2015-2016/2016-05-07 - 17-00 Sunderland 3 - 2 Chelsea,england_epl,2015-2016,Sunderland,Chelsea,3 - 2,5,5,True
+england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool,england_epl,2016-2017,Arsenal,Liverpool,3 - 4,7,7,True
+england_epl/2016-2017/2016-08-20 - 17-00 Burnley 2 - 0 Liverpool,england_epl,2016-2017,Burnley,Liverpool,2 - 0,2,2,True
+england_epl/2016-2017/2016-08-20 - 19-30 Leicester 0 - 0 Arsenal,england_epl,2016-2017,Leicester,Arsenal,0 - 0,0,0,False
+england_epl/2016-2017/2016-09-10 - 17-00 Arsenal 2 - 1 Southampton,england_epl,2016-2017,Arsenal,Southampton,2 - 1,3,3,True
+england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool,england_epl,2016-2017,Chelsea,Liverpool,1 - 2,3,3,True
+england_epl/2016-2017/2016-09-17 - 17-00 Hull City 1 - 4 Arsenal,england_epl,2016-2017,Hull City,Arsenal,1 - 4,5,5,True
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,england_epl,2016-2017,Arsenal,Chelsea,3 - 0,3,3,True
+england_epl/2016-2017/2016-10-17 - 22-00 Liverpool 0 - 0 Manchester United,england_epl,2016-2017,Liverpool,Manchester United,0 - 0,0,0,False
+england_epl/2016-2017/2016-10-22 - 19-30 Liverpool 2 - 1 West Brom,england_epl,2016-2017,Liverpool,West Brom,2 - 1,3,3,True
+england_epl/2016-2017/2016-10-29 - 14-30 Sunderland 1 - 4 Arsenal,england_epl,2016-2017,Sunderland,Arsenal,1 - 4,5,5,True
+england_epl/2016-2017/2016-10-29 - 17-00 Tottenham 1 - 1 Leicester,england_epl,2016-2017,Tottenham,Leicester,1 - 1,2,2,True
+england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford,england_epl,2016-2017,Liverpool,Watford,6 - 1,7,7,True
+england_epl/2016-2017/2016-11-06 - 19-30 Leicester 1 - 2 West Brom,england_epl,2016-2017,Leicester,West Brom,1 - 2,3,3,True
+england_epl/2016-2017/2016-11-19 - 18-00 Southampton 0 - 0 Liverpool,england_epl,2016-2017,Southampton,Liverpool,0 - 0,0,0,False
+england_epl/2016-2017/2016-11-26 - 18-00 Liverpool 2 - 0 Sunderland,england_epl,2016-2017,Liverpool,Sunderland,2 - 0,2,2,True
+england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City,england_epl,2016-2017,Leicester,Manchester City,4 - 2,6,6,True
+england_epl/2016-2017/2016-12-11 - 19-30 Liverpool 2 - 2 West Ham,england_epl,2016-2017,Liverpool,West Ham,2 - 2,4,4,True
+england_epl/2016-2017/2016-12-14 - 22-45 Middlesbrough 0 - 3 Liverpool,england_epl,2016-2017,Middlesbrough,Liverpool,0 - 3,3,3,True
+england_epl/2016-2017/2016-12-19 - 23-00 Everton 0 - 1 Liverpool,england_epl,2016-2017,Everton,Liverpool,0 - 1,1,1,True
+england_epl/2016-2017/2016-12-27 - 20-15 Liverpool 4 - 1 Stoke City,england_epl,2016-2017,Liverpool,Stoke City,4 - 1,5,5,True
+england_epl/2016-2017/2016-12-31 - 20-30 Liverpool 1 - 0 Manchester City,england_epl,2016-2017,Liverpool,Manchester City,1 - 0,1,1,True
+england_epl/2016-2017/2017-01-02 - 15-30 Middlesbrough 0 - 0 Leicester,england_epl,2016-2017,Middlesbrough,Leicester,0 - 0,0,0,False
+england_epl/2016-2017/2017-01-02 - 18-00 Sunderland 2 - 2 Liverpool,england_epl,2016-2017,Sunderland,Liverpool,2 - 2,4,4,True
+england_epl/2016-2017/2017-01-14 - 20-30 Leicester 0 - 3 Chelsea,england_epl,2016-2017,Leicester,Chelsea,0 - 3,3,3,True
+england_epl/2016-2017/2017-01-15 - 19-00 Manchester United 1 - 1 Liverpool,england_epl,2016-2017,Manchester United,Liverpool,1 - 1,2,2,True
+england_epl/2016-2017/2017-01-31 - 23-00 Liverpool 1 - 1 Chelsea,england_epl,2016-2017,Liverpool,Chelsea,1 - 1,2,2,True
+england_epl/2016-2017/2017-02-27 - 23-00 Leicester 3 - 1 Liverpool,england_epl,2016-2017,Leicester,Liverpool,3 - 1,4,4,True
+england_epl/2016-2017/2017-04-26 - 21-45 Arsenal 1 - 0 Leicester,england_epl,2016-2017,Arsenal,Leicester,1 - 0,1,1,True
+england_epl/2016-2017/2017-05-13 - 14-30 Manchester City 2 - 1 Leicester,england_epl,2016-2017,Manchester City,Leicester,2 - 1,3,3,True
+europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht,europe_uefa-champions-league,2014-2015,Arsenal,Anderlecht,3 - 3,6,7,False
+europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray,europe_uefa-champions-league,2014-2015,Dortmund,Galatasaray,4 - 1,5,5,True
+europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Bayern Munich 2 - 0 AS Roma,europe_uefa-champions-league,2014-2015,Bayern Munich,AS Roma,2 - 0,2,2,True
+europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Benfica 0 - 0 Bayer Leverkusen,europe_uefa-champions-league,2014-2015,Benfica,Bayer Leverkusen,0 - 0,0,0,False
+europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Dortmund 1 - 1 Anderlecht,europe_uefa-champions-league,2014-2015,Dortmund,Anderlecht,1 - 1,2,2,True
+europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Liverpool 1 - 1 Basel,europe_uefa-champions-league,2014-2015,Liverpool,Basel,1 - 1,2,2,True
+europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Barcelona 3 - 1 Paris SG,europe_uefa-champions-league,2014-2015,Barcelona,Paris SG,3 - 1,4,4,True
+europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,europe_uefa-champions-league,2014-2015,Bayern Munich,CSKA Moscow,3 - 0,3,3,True
+europe_uefa-champions-league/2014-2015/2015-02-17 - 22-45 Paris SG 1 - 1 Chelsea,europe_uefa-champions-league,2014-2015,Paris SG,Chelsea,1 - 1,2,3,False
+europe_uefa-champions-league/2014-2015/2015-02-17 - 22-45 Shakhtar Donetsk 0 - 0 Bayern Munich,europe_uefa-champions-league,2014-2015,Shakhtar Donetsk,Bayern Munich,0 - 0,0,0,False
+europe_uefa-champions-league/2014-2015/2015-02-18 - 22-45 Schalke 0 - 2 Real Madrid,europe_uefa-champions-league,2014-2015,Schalke,Real Madrid,0 - 2,2,3,False
+europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco,europe_uefa-champions-league,2014-2015,Arsenal,Monaco,1 - 3,4,7,False
+europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Bayer Leverkusen 1 - 0 Atl. Madrid,europe_uefa-champions-league,2014-2015,Bayer Leverkusen,Atl. Madrid,1 - 0,1,2,False
+europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,europe_uefa-champions-league,2014-2015,FC Porto,Basel,4 - 0,4,8,False
+europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Barcelona 1 - 0 Manchester City,europe_uefa-champions-league,2014-2015,Barcelona,Manchester City,1 - 0,1,2,False
+europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Dortmund 0 - 3 Juventus,europe_uefa-champions-league,2014-2015,Dortmund,Juventus,0 - 3,3,5,False
+europe_uefa-champions-league/2014-2015/2015-04-14 - 21-45 Atl. Madrid 0 - 0 Real Madrid,europe_uefa-champions-league,2014-2015,Atl. Madrid,Real Madrid,0 - 0,0,0,False
+europe_uefa-champions-league/2014-2015/2015-04-14 - 21-45 Juventus 1 - 0 Monaco,europe_uefa-champions-league,2014-2015,Juventus,Monaco,1 - 0,1,1,True
+europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,europe_uefa-champions-league,2014-2015,Bayern Munich,FC Porto,6 - 1,7,8,False
+europe_uefa-champions-league/2014-2015/2015-04-22 - 21-45 Monaco 0 - 0 Juventus,europe_uefa-champions-league,2014-2015,Monaco,Juventus,0 - 0,0,0,False
+europe_uefa-champions-league/2014-2015/2015-05-06 - 21-45 Barcelona 3 - 0 Bayern Munich,europe_uefa-champions-league,2014-2015,Barcelona,Bayern Munich,3 - 0,3,4,False
+europe_uefa-champions-league/2014-2015/2015-05-12 - 21-45 Bayern Munich 3 - 2 Barcelona,europe_uefa-champions-league,2014-2015,Bayern Munich,Barcelona,3 - 2,5,5,True
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Galatasaray 0 - 2 Atl. Madrid,europe_uefa-champions-league,2015-2016,Galatasaray,Atl. Madrid,0 - 2,2,2,True
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Manchester City 1 - 2 Juventus,europe_uefa-champions-league,2015-2016,Manchester City,Juventus,1 - 2,3,3,True
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Paris SG 2 - 0 Malmo FF,europe_uefa-champions-league,2015-2016,Paris SG,Malmo FF,2 - 0,2,2,True
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Real Madrid 4 - 0 Shakhtar Donetsk,europe_uefa-champions-league,2015-2016,Real Madrid,Shakhtar Donetsk,4 - 0,4,4,True
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Sevilla 3 - 0 B. Monchengladbach,europe_uefa-champions-league,2015-2016,Sevilla,B. Monchengladbach,3 - 0,3,3,True
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 AS Roma 1 - 1 Barcelona,europe_uefa-champions-league,2015-2016,AS Roma,Barcelona,1 - 1,2,2,True
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Bayer Leverkusen 4 - 1 BATE,europe_uefa-champions-league,2015-2016,Bayer Leverkusen,BATE,4 - 1,5,5,True
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,europe_uefa-champions-league,2015-2016,Gent,Lyon,1 - 1,2,2,True
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus,europe_uefa-champions-league,2015-2016,Arsenal,Olympiakos Piraeus,2 - 3,5,5,True
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,europe_uefa-champions-league,2015-2016,Lyon,Valencia,0 - 1,1,1,True
+europe_uefa-champions-league/2015-2016/2015-10-20 - 21-45 Arsenal 2 - 0 Bayern Munich,europe_uefa-champions-league,2015-2016,Arsenal,Bayern Munich,2 - 0,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-03 - 18-00 FC Astana 0 - 0 Atl. Madrid,europe_uefa-champions-league,2015-2016,FC Astana,Atl. Madrid,0 - 0,0,0,False
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,europe_uefa-champions-league,2015-2016,B. Monchengladbach,Juventus,1 - 1,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,europe_uefa-champions-league,2015-2016,Manchester United,CSKA Moscow,1 - 0,1,1,True
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,europe_uefa-champions-league,2015-2016,PSV,Wolfsburg,2 - 0,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Bayern Munich 5 - 1 Arsenal,europe_uefa-champions-league,2015-2016,Bayern Munich,Arsenal,5 - 1,6,6,True
+europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Gent 1 - 0 Valencia,europe_uefa-champions-league,2015-2016,Gent,Valencia,1 - 0,1,1,True
+europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Lyon 0 - 2 Zenit Petersburg,europe_uefa-champions-league,2015-2016,Lyon,Zenit Petersburg,0 - 2,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Maccabi Tel Aviv 1 - 3 FC Porto,europe_uefa-champions-league,2015-2016,Maccabi Tel Aviv,FC Porto,1 - 3,4,4,True
+europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 Zenit Petersburg 2 - 0 Valencia,europe_uefa-champions-league,2015-2016,Zenit Petersburg,Valencia,2 - 0,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma,europe_uefa-champions-league,2015-2016,Barcelona,AS Roma,6 - 1,7,6,False
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Bayern Munich 4 - 0 Olympiakos Piraeus,europe_uefa-champions-league,2015-2016,Bayern Munich,Olympiakos Piraeus,4 - 0,4,4,True
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 FC Porto 0 - 2 Dyn. Kiev,europe_uefa-champions-league,2015-2016,FC Porto,Dyn. Kiev,0 - 2,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,europe_uefa-champions-league,2015-2016,Maccabi Tel Aviv,Chelsea,0 - 4,4,4,True
+europe_uefa-champions-league/2015-2016/2015-11-25 - 20-00 CSKA Moscow 0 - 2 Wolfsburg,europe_uefa-champions-league,2015-2016,CSKA Moscow,Wolfsburg,0 - 2,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Atl. Madrid 2 - 0 Galatasaray,europe_uefa-champions-league,2015-2016,Atl. Madrid,Galatasaray,2 - 0,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 B. Monchengladbach 4 - 2 Sevilla,europe_uefa-champions-league,2015-2016,B. Monchengladbach,Sevilla,4 - 2,6,6,True
+europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Malmo FF 0 - 5 Paris SG,europe_uefa-champions-league,2015-2016,Malmo FF,Paris SG,0 - 5,5,5,True
+europe_uefa-champions-league/2015-2016/2015-12-09 - 22-45 D. Zagreb 0 - 2 Bayern Munich,europe_uefa-champions-league,2015-2016,D. Zagreb,Bayern Munich,0 - 2,2,2,True
+europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic,europe_uefa-champions-league,2016-2017,Barcelona,Celtic,7 - 0,7,7,True
+europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Dyn. Kiev 1 - 2 Napoli,europe_uefa-champions-league,2016-2017,Dyn. Kiev,Napoli,1 - 2,3,3,True
+europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Ludogorets 1 - 3 Paris SG,europe_uefa-champions-league,2016-2017,Ludogorets,Paris SG,1 - 3,4,4,True
+europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Barcelona 4 - 0 Manchester City,europe_uefa-champions-league,2016-2017,Barcelona,Manchester City,4 - 0,4,4,True
+europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Celtic 0 - 2 Barcelona,europe_uefa-champions-league,2016-2017,Celtic,Barcelona,0 - 2,2,2,True
+europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Napoli 0 - 0 Dyn. Kiev,europe_uefa-champions-league,2016-2017,Napoli,Dyn. Kiev,0 - 0,0,0,False
+europe_uefa-champions-league/2016-2017/2016-12-06 - 22-45 Benfica 1 - 2 Napoli,europe_uefa-champions-league,2016-2017,Benfica,Napoli,1 - 2,3,3,True
+europe_uefa-champions-league/2016-2017/2017-02-14 - 22-45 Paris SG 4 - 0 Barcelona,europe_uefa-champions-league,2016-2017,Paris SG,Barcelona,4 - 0,4,4,True
+europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli,europe_uefa-champions-league,2016-2017,Real Madrid,Napoli,3 - 1,4,4,True
+europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid,europe_uefa-champions-league,2016-2017,Napoli,Real Madrid,1 - 3,4,4,True
+europe_uefa-champions-league/2016-2017/2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich,europe_uefa-champions-league,2016-2017,Real Madrid,Bayern Munich,4 - 2,6,3,False
+france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG,france_ligue-1,2014-2015,Marseille,Paris SG,2 - 3,5,5,True
+france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,france_ligue-1,2015-2016,Nantes,Paris SG,1 - 4,5,8,False
+france_ligue-1/2015-2016/2015-11-07 - 19-00 Paris SG 5 - 0 Toulouse,france_ligue-1,2015-2016,Paris SG,Toulouse,5 - 0,5,6,False
+france_ligue-1/2016-2017/2016-08-12 - 21-00 Bastia 0 - 1 Paris SG,france_ligue-1,2016-2017,Bastia,Paris SG,0 - 1,1,1,True
+france_ligue-1/2016-2017/2016-09-16 - 21-45 Caen 0 - 6 Paris SG,france_ligue-1,2016-2017,Caen,Paris SG,0 - 6,6,6,True
+france_ligue-1/2016-2017/2016-09-23 - 21-45 Toulouse 2 - 0 Paris SG,france_ligue-1,2016-2017,Toulouse,Paris SG,2 - 0,2,2,True
+france_ligue-1/2016-2017/2016-10-01 - 18-00 Paris SG 2 - 0 Bordeaux,france_ligue-1,2016-2017,Paris SG,Bordeaux,2 - 0,2,3,False
+france_ligue-1/2016-2017/2016-10-15 - 18-00 Nancy 1 - 2 Paris SG,france_ligue-1,2016-2017,Nancy,Paris SG,1 - 2,3,3,True
+france_ligue-1/2016-2017/2016-10-28 - 21-45 Lille 0 - 1 Paris SG,france_ligue-1,2016-2017,Lille,Paris SG,0 - 1,1,1,True
+france_ligue-1/2016-2017/2016-11-06 - 22-45 Paris SG 4 - 0 Rennes,france_ligue-1,2016-2017,Paris SG,Rennes,4 - 0,4,4,True
+france_ligue-1/2016-2017/2016-11-19 - 19-00 Paris SG 2 - 0 Nantes,france_ligue-1,2016-2017,Paris SG,Nantes,2 - 0,2,2,True
+france_ligue-1/2016-2017/2016-11-27 - 22-45 Lyon 1 - 2 Paris SG,france_ligue-1,2016-2017,Lyon,Paris SG,1 - 2,3,4,False
+france_ligue-1/2016-2017/2016-12-11 - 22-45 Paris SG 2 - 2 Nice,france_ligue-1,2016-2017,Paris SG,Nice,2 - 2,4,4,True
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,france_ligue-1,2016-2017,Guingamp,Paris SG,2 - 1,3,3,True
+france_ligue-1/2016-2017/2016-12-21 - 22-50 Paris SG 5 - 0 Lorient,france_ligue-1,2016-2017,Paris SG,Lorient,5 - 0,5,5,True
+france_ligue-1/2016-2017/2017-01-21 - 19-00 Nantes 0 - 2 Paris SG,france_ligue-1,2016-2017,Nantes,Paris SG,0 - 2,2,2,True
+france_ligue-1/2016-2017/2017-02-10 - 22-45 Bordeaux 0 - 3 Paris SG,france_ligue-1,2016-2017,Bordeaux,Paris SG,0 - 3,3,3,True
+france_ligue-1/2016-2017/2017-02-19 - 23-00 Paris SG 0 - 0 Toulouse,france_ligue-1,2016-2017,Paris SG,Toulouse,0 - 0,0,0,False
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,france_ligue-1,2016-2017,Marseille,Paris SG,1 - 5,6,6,True
+france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,france_ligue-1,2016-2017,Lorient,Paris SG,1 - 2,3,3,True
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,france_ligue-1,2016-2017,Paris SG,Lyon,2 - 1,3,3,True
+france_ligue-1/2016-2017/2017-04-14 - 21-45 Angers 0 - 2 Paris SG,france_ligue-1,2016-2017,Angers,Paris SG,0 - 2,2,2,True
+france_ligue-1/2016-2017/2017-04-18 - 19-30 Metz 2 - 3 Paris SG,france_ligue-1,2016-2017,Metz,Paris SG,2 - 3,5,5,True
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,france_ligue-1,2016-2017,Paris SG,Montpellier,2 - 0,2,2,True
+france_ligue-1/2016-2017/2017-04-30 - 22-00 Nice 3 - 1 Paris SG,france_ligue-1,2016-2017,Nice,Paris SG,3 - 1,4,4,True
+france_ligue-1/2016-2017/2017-05-06 - 18-00 Paris SG 5 - 0 Bastia,france_ligue-1,2016-2017,Paris SG,Bastia,5 - 0,5,5,True
+france_ligue-1/2016-2017/2017-05-20 - 22-00 Paris SG 1 - 1 Caen,france_ligue-1,2016-2017,Paris SG,Caen,1 - 1,2,2,True
+germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich,germany_bundesliga,2014-2015,Paderborn,Bayern Munich,0 - 6,6,6,True
+germany_bundesliga/2014-2015/2015-04-11 - 16-30 Bayern Munich 3 - 0 Eintracht Frankfurt,germany_bundesliga,2014-2015,Bayern Munich,Eintracht Frankfurt,3 - 0,3,3,True
+germany_bundesliga/2014-2015/2015-04-25 - 16-30 Dortmund 2 - 0 Eintracht Frankfurt,germany_bundesliga,2014-2015,Dortmund,Eintracht Frankfurt,2 - 0,2,2,True
+germany_bundesliga/2014-2015/2015-05-09 - 16-30 Dortmund 2 - 0 Hertha Berlin,germany_bundesliga,2014-2015,Dortmund,Hertha Berlin,2 - 0,2,3,False
+germany_bundesliga/2014-2015/2015-05-16 - 16-30 Wolfsburg 2 - 1 Dortmund,germany_bundesliga,2014-2015,Wolfsburg,Dortmund,2 - 1,3,4,False
+germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich,germany_bundesliga,2015-2016,Hoffenheim,Bayern Munich,1 - 2,3,3,True
+germany_bundesliga/2015-2016/2015-08-30 - 16-30 Dortmund 3 - 1 Hertha Berlin,germany_bundesliga,2015-2016,Dortmund,Hertha Berlin,3 - 1,4,4,True
+germany_bundesliga/2015-2016/2015-09-19 - 16-30 Darmstadt 0 - 3 Bayern Munich,germany_bundesliga,2015-2016,Darmstadt,Bayern Munich,0 - 3,3,3,True
+germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,germany_bundesliga,2015-2016,Bayern Munich,Wolfsburg,5 - 1,6,6,True
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,germany_bundesliga,2015-2016,1. FSV Mainz 05,Bayern Munich,0 - 3,3,3,True
+germany_bundesliga/2015-2016/2015-12-12 - 17-30 Bayern Munich 2 - 0 Ingolstadt,germany_bundesliga,2015-2016,Bayern Munich,Ingolstadt,2 - 0,2,2,True
+germany_bundesliga/2015-2016/2016-01-31 - 19-30 Bayern Munich 2 - 0 Hoffenheim,germany_bundesliga,2015-2016,Bayern Munich,Hoffenheim,2 - 0,2,2,True
+germany_bundesliga/2015-2016/2016-04-02 - 16-30 Bayern Munich 1 - 0 Eintracht Frankfurt,germany_bundesliga,2015-2016,Bayern Munich,Eintracht Frankfurt,1 - 0,1,1,True
+germany_bundesliga/2015-2016/2016-04-09 - 16-30 VfB Stuttgart 1 - 3 Bayern Munich,germany_bundesliga,2015-2016,VfB Stuttgart,Bayern Munich,1 - 3,4,4,True
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,germany_bundesliga,2015-2016,Bayern Munich,Schalke,3 - 0,3,3,True
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,germany_bundesliga,2016-2017,Dortmund,Darmstadt,6 - 0,6,6,True
+germany_bundesliga/2016-2017/2016-09-20 - 21-00 Wolfsburg 1 - 5 Dortmund,germany_bundesliga,2016-2017,Wolfsburg,Dortmund,1 - 5,6,6,True
+germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,germany_bundesliga,2016-2017,Dortmund,SC Freiburg,3 - 1,4,4,True
+germany_bundesliga/2016-2017/2016-10-14 - 21-30 Dortmund 1 - 1 Hertha Berlin,germany_bundesliga,2016-2017,Dortmund,Hertha Berlin,1 - 1,2,2,True
+germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,germany_bundesliga,2016-2017,Ingolstadt,Dortmund,3 - 3,6,6,True
+germany_bundesliga/2016-2017/2016-10-29 - 19-30 Dortmund 0 - 0 Schalke,germany_bundesliga,2016-2017,Dortmund,Schalke,0 - 0,0,0,False
+germany_bundesliga/2016-2017/2016-11-26 - 17-30 Eintracht Frankfurt 2 - 1 Dortmund,germany_bundesliga,2016-2017,Eintracht Frankfurt,Dortmund,2 - 1,3,3,True
+germany_bundesliga/2016-2017/2016-12-10 - 17-30 FC Koln 1 - 1 Dortmund,germany_bundesliga,2016-2017,FC Koln,Dortmund,1 - 1,2,2,True
+germany_bundesliga/2016-2017/2016-12-20 - 22-00 Dortmund 1 - 1 FC Augsburg,germany_bundesliga,2016-2017,Dortmund,FC Augsburg,1 - 1,2,2,True
+germany_bundesliga/2016-2017/2017-02-04 - 20-30 Dortmund 1 - 0 RB Leipzig,germany_bundesliga,2016-2017,Dortmund,RB Leipzig,1 - 0,1,1,True
+germany_bundesliga/2016-2017/2017-02-11 - 17-30 Darmstadt 2 - 1 Dortmund,germany_bundesliga,2016-2017,Darmstadt,Dortmund,2 - 1,3,3,True
+germany_bundesliga/2016-2017/2017-02-18 - 17-30 Dortmund 3 - 0 Wolfsburg,germany_bundesliga,2016-2017,Dortmund,Wolfsburg,3 - 0,3,3,True
+germany_bundesliga/2016-2017/2017-03-17 - 22-30 Dortmund 1 - 0 Ingolstadt,germany_bundesliga,2016-2017,Dortmund,Ingolstadt,1 - 0,1,1,True
+germany_bundesliga/2016-2017/2017-04-01 - 16-30 Schalke 1 - 1 Dortmund,germany_bundesliga,2016-2017,Schalke,Dortmund,1 - 1,2,2,True
+germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,germany_bundesliga,2016-2017,Dortmund,Eintracht Frankfurt,3 - 1,4,4,True
+germany_bundesliga/2016-2017/2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund,germany_bundesliga,2016-2017,FC Augsburg,Dortmund,1 - 1,2,2,True
+italy_serie-a/2014-2015/2015-02-15 - 14-30 AC Milan 1 - 1 Empoli,italy_serie-a,2014-2015,AC Milan,Empoli,1 - 1,2,2,True
+italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter,italy_serie-a,2014-2015,Verona,Inter,0 - 3,3,3,True
+italy_serie-a/2014-2015/2015-04-19 - 21-45 Inter 0 - 0 AC Milan,italy_serie-a,2014-2015,Inter,AC Milan,0 - 0,0,0,False
+italy_serie-a/2014-2015/2015-04-25 - 21-45 Inter 2 - 1 AS Roma,italy_serie-a,2014-2015,Inter,AS Roma,2 - 1,3,3,True
+italy_serie-a/2014-2015/2015-04-26 - 16-00 Torino 2 - 1 Juventus,italy_serie-a,2014-2015,Torino,Juventus,2 - 1,3,3,True
+italy_serie-a/2014-2015/2015-05-03 - 21-45 Napoli 3 - 0 AC Milan,italy_serie-a,2014-2015,Napoli,AC Milan,3 - 0,3,3,True
+italy_serie-a/2014-2015/2015-05-16 - 19-00 Inter 1 - 2 Juventus,italy_serie-a,2014-2015,Inter,Juventus,1 - 2,3,3,True
+italy_serie-a/2015-2016/2015-09-20 - 13-30 Chievo 0 - 1 Inter,italy_serie-a,2015-2016,Chievo,Inter,0 - 1,1,1,True
+italy_serie-a/2015-2016/2015-09-22 - 21-45 Udinese 2 - 3 AC Milan,italy_serie-a,2015-2016,Udinese,AC Milan,2 - 3,5,5,True
+italy_serie-a/2015-2016/2015-11-01 - 22-45 Lazio 1 - 3 AC Milan,italy_serie-a,2015-2016,Lazio,AC Milan,1 - 3,4,4,True
+italy_serie-a/2015-2016/2015-11-07 - 22-45 AC Milan 0 - 0 Atalanta,italy_serie-a,2015-2016,AC Milan,Atalanta,0 - 0,0,0,False
+italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,italy_serie-a,2015-2016,Inter,Frosinone,4 - 0,4,4,True
+italy_serie-a/2016-2017/2016-08-21 - 21-45 Pescara 2 - 2 Napoli,italy_serie-a,2016-2017,Pescara,Napoli,2 - 2,4,4,True
+italy_serie-a/2016-2017/2016-08-28 - 21-45 Cagliari 2 - 2 AS Roma,italy_serie-a,2016-2017,Cagliari,AS Roma,2 - 2,4,4,True
+italy_serie-a/2016-2017/2016-09-10 - 21-45 Palermo 0 - 3 Napoli,italy_serie-a,2016-2017,Palermo,Napoli,0 - 3,3,4,False
+italy_serie-a/2016-2017/2016-09-16 - 21-45 Sampdoria 0 - 1 AC Milan,italy_serie-a,2016-2017,Sampdoria,AC Milan,0 - 1,1,1,True
+italy_serie-a/2016-2017/2016-09-17 - 21-45 Napoli 3 - 1 Bologna,italy_serie-a,2016-2017,Napoli,Bologna,3 - 1,4,5,False
+italy_serie-a/2016-2017/2016-09-21 - 21-45 AS Roma 4 - 0 Crotone,italy_serie-a,2016-2017,AS Roma,Crotone,4 - 0,4,4,True
+italy_serie-a/2016-2017/2016-10-15 - 16-00 Napoli 1 - 3 AS Roma,italy_serie-a,2016-2017,Napoli,AS Roma,1 - 3,4,4,True
+italy_serie-a/2016-2017/2016-10-23 - 16-00 Crotone 1 - 2 Napoli,italy_serie-a,2016-2017,Crotone,Napoli,1 - 2,3,3,True
+italy_serie-a/2016-2017/2016-10-23 - 21-45 AS Roma 4 - 1 Palermo,italy_serie-a,2016-2017,AS Roma,Palermo,4 - 1,5,5,True
+italy_serie-a/2016-2017/2016-10-25 - 21-45 Genoa 3 - 0 AC Milan,italy_serie-a,2016-2017,Genoa,AC Milan,3 - 0,3,3,True
+italy_serie-a/2016-2017/2016-10-26 - 21-45 Napoli 2 - 0 Empoli,italy_serie-a,2016-2017,Napoli,Empoli,2 - 0,2,2,True
+italy_serie-a/2016-2017/2016-10-26 - 21-45 Sassuolo 1 - 3 AS Roma,italy_serie-a,2016-2017,Sassuolo,AS Roma,1 - 3,4,4,True
+italy_serie-a/2016-2017/2016-10-30 - 17-00 AC Milan 1 - 0 Pescara,italy_serie-a,2016-2017,AC Milan,Pescara,1 - 0,1,1,True
+italy_serie-a/2016-2017/2016-10-30 - 17-00 Empoli 0 - 0 AS Roma,italy_serie-a,2016-2017,Empoli,AS Roma,0 - 0,0,0,False
+italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,italy_serie-a,2016-2017,Palermo,AC Milan,1 - 2,3,3,True
+italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna,italy_serie-a,2016-2017,AS Roma,Bologna,3 - 0,3,3,True
+italy_serie-a/2016-2017/2016-11-20 - 22-45 AC Milan 2 - 2 Inter,italy_serie-a,2016-2017,AC Milan,Inter,2 - 2,4,4,True
+italy_serie-a/2016-2017/2016-11-27 - 22-45 AS Roma 3 - 2 Pescara,italy_serie-a,2016-2017,AS Roma,Pescara,3 - 2,5,5,True
+italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,italy_serie-a,2016-2017,AC Milan,Crotone,2 - 1,3,3,True
+italy_serie-a/2016-2017/2016-12-17 - 20-00 AC Milan 0 - 0 Atalanta,italy_serie-a,2016-2017,AC Milan,Atalanta,0 - 0,0,0,False
+italy_serie-a/2016-2017/2016-12-22 - 22-45 AS Roma 3 - 1 Chievo,italy_serie-a,2016-2017,AS Roma,Chievo,3 - 1,4,4,True
+italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari,italy_serie-a,2016-2017,AC Milan,Cagliari,1 - 0,1,1,True
+italy_serie-a/2016-2017/2017-01-15 - 17-00 Napoli 3 - 1 Pescara,italy_serie-a,2016-2017,Napoli,Pescara,3 - 1,4,5,False
+italy_serie-a/2016-2017/2017-01-15 - 17-00 Udinese 0 - 1 AS Roma,italy_serie-a,2016-2017,Udinese,AS Roma,0 - 1,1,1,True
+italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,italy_serie-a,2016-2017,AC Milan,Napoli,1 - 2,3,3,True
+italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,italy_serie-a,2016-2017,Bologna,Napoli,1 - 7,8,8,True
+italy_serie-a/2016-2017/2017-02-10 - 22-45 Napoli 2 - 0 Genoa,italy_serie-a,2016-2017,Napoli,Genoa,2 - 0,2,2,True
+italy_serie-a/2016-2017/2017-02-12 - 14-30 Crotone 0 - 2 AS Roma,italy_serie-a,2016-2017,Crotone,AS Roma,0 - 2,2,2,True
+italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino,italy_serie-a,2016-2017,AS Roma,Torino,4 - 1,5,5,True
+italy_serie-a/2016-2017/2017-03-04 - 17-00 AS Roma 1 - 2 Napoli,italy_serie-a,2016-2017,AS Roma,Napoli,1 - 2,3,3,True
+italy_serie-a/2016-2017/2017-03-12 - 17-00 Napoli 3 - 0 Crotone,italy_serie-a,2016-2017,Napoli,Crotone,3 - 0,3,3,True
+italy_serie-a/2016-2017/2017-03-19 - 14-30 Empoli 2 - 3 Napoli,italy_serie-a,2016-2017,Empoli,Napoli,2 - 3,5,5,True
+italy_serie-a/2016-2017/2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo,italy_serie-a,2016-2017,AS Roma,Sassuolo,3 - 1,4,4,True
+italy_serie-a/2016-2017/2017-04-09 - 16-00 Bologna 0 - 3 AS Roma,italy_serie-a,2016-2017,Bologna,AS Roma,0 - 3,3,3,True
+italy_serie-a/2016-2017/2017-04-09 - 21-45 Lazio 0 - 3 Napoli,italy_serie-a,2016-2017,Lazio,Napoli,0 - 3,3,3,True
+italy_serie-a/2016-2017/2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta,italy_serie-a,2016-2017,AS Roma,Atalanta,1 - 1,2,2,True
+italy_serie-a/2016-2017/2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli,italy_serie-a,2016-2017,Sassuolo,Napoli,2 - 2,4,4,True
+italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma,italy_serie-a,2016-2017,Pescara,AS Roma,1 - 4,5,5,True
+italy_serie-a/2016-2017/2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma,italy_serie-a,2016-2017,AC Milan,AS Roma,1 - 4,5,5,True
+italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli,italy_serie-a,2016-2017,Torino,Napoli,0 - 5,5,5,True
+italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus,italy_serie-a,2016-2017,AS Roma,Juventus,3 - 1,4,4,True
+italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,italy_serie-a,2016-2017,Chievo,AS Roma,3 - 5,8,8,True
+italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa,italy_serie-a,2016-2017,AS Roma,Genoa,3 - 2,5,5,True
+italy_serie-a/2016-2017/2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli,italy_serie-a,2016-2017,Sampdoria,Napoli,2 - 4,6,6,True
+spain_laliga/2014-2015/2015-02-21 - 18-00 Barcelona 0 - 1 Malaga,spain_laliga,2014-2015,Barcelona,Malaga,0 - 1,1,1,True
+spain_laliga/2014-2015/2015-02-22 - 23-00 Elche 0 - 2 Real Madrid,spain_laliga,2014-2015,Elche,Real Madrid,0 - 2,2,2,True
+spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia,spain_laliga,2014-2015,Real Madrid,Valencia,2 - 2,4,4,True
+spain_laliga/2014-2015/2015-05-17 - 20-00 Atl. Madrid 0 - 1 Barcelona,spain_laliga,2014-2015,Atl. Madrid,Barcelona,0 - 1,1,1,True
+spain_laliga/2014-2015/2015-05-17 - 20-00 Espanyol 1 - 4 Real Madrid,spain_laliga,2014-2015,Espanyol,Real Madrid,1 - 4,5,6,False
+spain_laliga/2014-2015/2015-05-23 - 19-30 Barcelona 2 - 2 Dep. La Coruna,spain_laliga,2014-2015,Barcelona,Dep. La Coruna,2 - 2,4,4,True
+spain_laliga/2015-2016/2015-08-29 - 21-30 Barcelona 1 - 0 Malaga,spain_laliga,2015-2016,Barcelona,Malaga,1 - 0,1,1,True
+spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid,spain_laliga,2015-2016,Espanyol,Real Madrid,0 - 6,6,6,True
+spain_laliga/2015-2016/2015-09-23 - 22-00 Ath Bilbao 1 - 2 Real Madrid,spain_laliga,2015-2016,Ath Bilbao,Real Madrid,1 - 2,3,3,True
+spain_laliga/2015-2016/2015-09-26 - 19-15 Real Madrid 0 - 0 Malaga,spain_laliga,2015-2016,Real Madrid,Malaga,0 - 0,0,0,False
+spain_laliga/2015-2016/2015-10-04 - 21-30 Atl. Madrid 1 - 1 Real Madrid,spain_laliga,2015-2016,Atl. Madrid,Real Madrid,1 - 1,2,2,True
+spain_laliga/2015-2016/2015-11-21 - 20-15 Real Madrid 0 - 4 Barcelona,spain_laliga,2015-2016,Real Madrid,Barcelona,0 - 4,4,4,True
+spain_laliga/2015-2016/2015-11-29 - 18-00 Eibar 0 - 2 Real Madrid,spain_laliga,2015-2016,Eibar,Real Madrid,0 - 2,2,2,True
+spain_laliga/2015-2016/2016-01-24 - 22-30 Betis 1 - 1 Real Madrid,spain_laliga,2015-2016,Betis,Real Madrid,1 - 1,2,2,True
+spain_laliga/2015-2016/2016-01-31 - 22-30 Real Madrid 6 - 0 Espanyol,spain_laliga,2015-2016,Real Madrid,Espanyol,6 - 0,6,6,True
+spain_laliga/2015-2016/2016-02-07 - 22-30 Granada CF 1 - 2 Real Madrid,spain_laliga,2015-2016,Granada CF,Real Madrid,1 - 2,3,3,True
+spain_laliga/2015-2016/2016-02-21 - 18-00 Malaga 1 - 1 Real Madrid,spain_laliga,2015-2016,Malaga,Real Madrid,1 - 1,2,2,True
+spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,spain_laliga,2015-2016,Real Madrid,Celta Vigo,7 - 1,8,8,True
+spain_laliga/2015-2016/2016-03-13 - 22-30 Las Palmas 1 - 2 Real Madrid,spain_laliga,2015-2016,Las Palmas,Real Madrid,1 - 2,3,3,True
+spain_laliga/2015-2016/2016-04-02 - 21-30 Barcelona 1 - 2 Real Madrid,spain_laliga,2015-2016,Barcelona,Real Madrid,1 - 2,3,3,True
+spain_laliga/2015-2016/2016-04-09 - 17-00 Real Madrid 4 - 0 Eibar,spain_laliga,2015-2016,Real Madrid,Eibar,4 - 0,4,4,True
+spain_laliga/2015-2016/2016-04-16 - 17-00 Getafe 1 - 5 Real Madrid,spain_laliga,2015-2016,Getafe,Real Madrid,1 - 5,6,6,True
+spain_laliga/2015-2016/2016-04-20 - 23-00 Real Madrid 3 - 0 Villarreal,spain_laliga,2015-2016,Real Madrid,Villarreal,3 - 0,3,3,True
+spain_laliga/2015-2016/2016-04-30 - 17-00 Real Sociedad 0 - 1 Real Madrid,spain_laliga,2015-2016,Real Sociedad,Real Madrid,0 - 1,1,1,True
+spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,spain_laliga,2016-2017,Barcelona,Betis,6 - 2,8,8,True
+spain_laliga/2016-2017/2016-08-27 - 21-15 Real Madrid 2 - 1 Celta Vigo,spain_laliga,2016-2017,Real Madrid,Celta Vigo,2 - 1,3,3,True
+spain_laliga/2016-2017/2016-08-28 - 21-15 Ath Bilbao 0 - 1 Barcelona,spain_laliga,2016-2017,Ath Bilbao,Barcelona,0 - 1,1,1,True
+spain_laliga/2016-2017/2016-09-18 - 21-45 Espanyol 0 - 2 Real Madrid,spain_laliga,2016-2017,Espanyol,Real Madrid,0 - 2,2,2,True
+spain_laliga/2016-2017/2016-09-21 - 23-00 Barcelona 1 - 1 Atl. Madrid,spain_laliga,2016-2017,Barcelona,Atl. Madrid,1 - 1,2,2,True
+spain_laliga/2016-2017/2016-10-02 - 17-15 Real Madrid 1 - 1 Eibar,spain_laliga,2016-2017,Real Madrid,Eibar,1 - 1,2,2,True
+spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid,spain_laliga,2016-2017,Betis,Real Madrid,1 - 6,7,7,True
+spain_laliga/2016-2017/2016-10-22 - 17-15 Valencia 2 - 3 Barcelona,spain_laliga,2016-2017,Valencia,Barcelona,2 - 3,5,5,True
+spain_laliga/2016-2017/2016-10-29 - 17-15 Alaves 1 - 4 Real Madrid,spain_laliga,2016-2017,Alaves,Real Madrid,1 - 4,5,5,True
+spain_laliga/2016-2017/2016-10-29 - 21-45 Barcelona 1 - 0 Granada CF,spain_laliga,2016-2017,Barcelona,Granada CF,1 - 0,1,1,True
+spain_laliga/2016-2017/2016-11-06 - 14-00 Real Madrid 3 - 0 Leganes,spain_laliga,2016-2017,Real Madrid,Leganes,3 - 0,3,3,True
+spain_laliga/2016-2017/2016-11-19 - 18-15 Barcelona 0 - 0 Malaga,spain_laliga,2016-2017,Barcelona,Malaga,0 - 0,0,0,False
+spain_laliga/2016-2017/2016-11-19 - 22-45 Atl. Madrid 0 - 3 Real Madrid,spain_laliga,2016-2017,Atl. Madrid,Real Madrid,0 - 3,3,3,True
+spain_laliga/2016-2017/2016-11-27 - 22-45 Real Sociedad 1 - 1 Barcelona,spain_laliga,2016-2017,Real Sociedad,Barcelona,1 - 1,2,2,True
+spain_laliga/2016-2017/2016-12-03 - 18-15 Barcelona 1 - 1 Real Madrid,spain_laliga,2016-2017,Barcelona,Real Madrid,1 - 1,2,2,True
+spain_laliga/2016-2017/2016-12-10 - 22-45 Real Madrid 3 - 2 Dep. La Coruna,spain_laliga,2016-2017,Real Madrid,Dep. La Coruna,3 - 2,5,7,False
+spain_laliga/2016-2017/2017-01-08 - 22-45 Villarreal 1 - 1 Barcelona,spain_laliga,2016-2017,Villarreal,Barcelona,1 - 1,2,2,True
+spain_laliga/2016-2017/2017-01-14 - 18-15 Barcelona 5 - 0 Las Palmas,spain_laliga,2016-2017,Barcelona,Las Palmas,5 - 0,5,5,True
+spain_laliga/2016-2017/2017-01-15 - 22-45 Sevilla 2 - 1 Real Madrid,spain_laliga,2016-2017,Sevilla,Real Madrid,2 - 1,3,3,True
+spain_laliga/2016-2017/2017-01-29 - 14-00 Betis 1 - 1 Barcelona,spain_laliga,2016-2017,Betis,Barcelona,1 - 1,2,2,True
+spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,spain_laliga,2016-2017,Real Madrid,Real Sociedad,3 - 0,3,3,True
+spain_laliga/2016-2017/2017-02-19 - 22-45 Barcelona 2 - 1 Leganes,spain_laliga,2016-2017,Barcelona,Leganes,2 - 1,3,3,True
+spain_laliga/2016-2017/2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona,spain_laliga,2016-2017,Atl. Madrid,Barcelona,1 - 2,3,3,True
+spain_laliga/2016-2017/2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid,spain_laliga,2016-2017,Villarreal,Real Madrid,2 - 3,5,5,True
+spain_laliga/2016-2017/2017-03-01 - 21-30 Barcelona 6 - 1 Gijon,spain_laliga,2016-2017,Barcelona,Gijon,6 - 1,7,7,True
+spain_laliga/2016-2017/2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas,spain_laliga,2016-2017,Real Madrid,Las Palmas,3 - 3,6,6,True
+spain_laliga/2016-2017/2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid,spain_laliga,2016-2017,Eibar,Real Madrid,1 - 4,5,5,True
+spain_laliga/2016-2017/2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo,spain_laliga,2016-2017,Barcelona,Celta Vigo,5 - 0,5,5,True
+spain_laliga/2016-2017/2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona,spain_laliga,2016-2017,Dep. La Coruna,Barcelona,2 - 1,3,3,True
+spain_laliga/2016-2017/2017-03-18 - 18-15 Ath Bilbao 1 - 2 Real Madrid,spain_laliga,2016-2017,Ath Bilbao,Real Madrid,1 - 2,3,3,True
+spain_laliga/2016-2017/2017-03-19 - 22-45 Barcelona 4 - 2 Valencia,spain_laliga,2016-2017,Barcelona,Valencia,4 - 2,6,6,True
+spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona,spain_laliga,2016-2017,Granada CF,Barcelona,1 - 4,5,5,True
+spain_laliga/2016-2017/2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid,spain_laliga,2016-2017,Leganes,Real Madrid,2 - 4,6,6,True
+spain_laliga/2016-2017/2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid,spain_laliga,2016-2017,Gijon,Real Madrid,2 - 3,5,5,True
+spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad,spain_laliga,2016-2017,Barcelona,Real Sociedad,3 - 2,5,6,False
+spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,spain_laliga,2016-2017,Dep. La Coruna,Real Madrid,2 - 6,8,8,True
+spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,spain_laliga,2016-2017,Barcelona,Villarreal,4 - 1,5,5,True
+spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,spain_laliga,2016-2017,Granada CF,Real Madrid,0 - 4,4,4,True
+spain_laliga/2016-2017/2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla,spain_laliga,2016-2017,Real Madrid,Sevilla,4 - 1,5,6,False
+spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid,spain_laliga,2016-2017,Celta Vigo,Real Madrid,1 - 4,5,6,False
+spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,spain_laliga,2016-2017,Barcelona,Eibar,4 - 2,6,8,False
+spain_laliga/2016-2017/2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid,spain_laliga,2016-2017,Malaga,Real Madrid,0 - 2,2,2,True
+england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal,england_epl,2014-2015,Burnley,Arsenal,0 - 1,1,1,True
+england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United,england_epl,2015-2016,Swansea,Manchester United,2 - 1,3,3,True
+england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,england_epl,2015-2016,Leicester,Arsenal,2 - 5,7,7,True
+england_epl/2015-2016/2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,england_epl,2015-2016,Manchester United,Sunderland,3 - 0,3,3,True
+england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,england_epl,2015-2016,Manchester City,Newcastle Utd,6 - 1,7,7,True
+england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,england_epl,2015-2016,Chelsea,Watford,2 - 2,4,4,True
+england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City,england_epl,2015-2016,West Ham,Manchester City,2 - 2,4,4,True
+england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea,england_epl,2015-2016,Arsenal,Chelsea,0 - 1,1,1,True
+england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,england_epl,2015-2016,Chelsea,Newcastle Utd,5 - 1,6,6,True
+england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea,england_epl,2015-2016,Southampton,Chelsea,1 - 2,3,3,True
+england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa,england_epl,2015-2016,Manchester City,Aston Villa,4 - 0,4,4,True
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,england_epl,2015-2016,Manchester City,Manchester United,0 - 1,1,1,True
+england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,england_epl,2015-2016,Bournemouth,Chelsea,1 - 4,5,5,True
+england_epl/2016-2017/2016-10-01 - 14-30 Swansea 1 - 2 Liverpool,england_epl,2016-2017,Swansea,Liverpool,1 - 2,3,3,True
+england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal,england_epl,2016-2017,Burnley,Arsenal,0 - 1,1,1,True
+england_epl/2016-2017/2016-10-22 - 17-00 Arsenal 0 - 0 Middlesbrough,england_epl,2016-2017,Arsenal,Middlesbrough,0 - 0,0,0,False
+england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,england_epl,2016-2017,Crystal Palace,Liverpool,2 - 4,6,6,True
+england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,england_epl,2016-2017,Bournemouth,Liverpool,4 - 3,7,7,True
+england_epl/2016-2017/2017-04-09 - 18-00 Everton 4 - 2 Leicester,england_epl,2016-2017,Everton,Leicester,4 - 2,6,6,True
+europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Real Madrid 1 - 0 Liverpool,europe_uefa-champions-league,2014-2015,Real Madrid,Liverpool,1 - 0,1,2,False
+europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Ajax 0 - 2 Barcelona,europe_uefa-champions-league,2014-2015,Ajax,Barcelona,0 - 2,2,2,True
+europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Manchester City 1 - 2 CSKA Moscow,europe_uefa-champions-league,2014-2015,Manchester City,CSKA Moscow,1 - 2,3,3,True
+europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,europe_uefa-champions-league,2014-2015,Galatasaray,Arsenal,1 - 4,5,7,False
+europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Real Madrid 4 - 0 Ludogorets,europe_uefa-champions-league,2014-2015,Real Madrid,Ludogorets,4 - 0,4,4,True
+europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,europe_uefa-champions-league,2014-2015,Bayern Munich,Shakhtar Donetsk,7 - 0,7,12,False
+europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,europe_uefa-champions-league,2014-2015,Paris SG,Barcelona,1 - 3,4,6,False
+europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Barcelona 2 - 0 Paris SG,europe_uefa-champions-league,2014-2015,Barcelona,Paris SG,2 - 0,2,3,False
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,europe_uefa-champions-league,2015-2016,PSV,Manchester United,2 - 1,3,3,True
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv,europe_uefa-champions-league,2015-2016,Chelsea,Maccabi Tel Aviv,4 - 0,4,4,True
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto,europe_uefa-champions-league,2015-2016,Dyn. Kiev,FC Porto,2 - 2,4,4,True
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich,europe_uefa-champions-league,2015-2016,Olympiakos Piraeus,Bayern Munich,0 - 3,3,3,True
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen,europe_uefa-champions-league,2015-2016,Barcelona,Bayer Leverkusen,2 - 1,3,3,True
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,europe_uefa-champions-league,2015-2016,FC Porto,Chelsea,2 - 1,3,3,True
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Benfica 2 - 1 Galatasaray,europe_uefa-champions-league,2015-2016,Benfica,Galatasaray,2 - 1,3,3,True
+europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Barcelona 3 - 0 BATE,europe_uefa-champions-league,2015-2016,Barcelona,BATE,3 - 0,3,3,True
+europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 BATE 1 - 1 Bayer Leverkusen,europe_uefa-champions-league,2015-2016,BATE,Bayer Leverkusen,1 - 1,2,2,True
+europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Juventus 1 - 0 Manchester City,europe_uefa-champions-league,2015-2016,Juventus,Manchester City,1 - 0,1,1,True
+europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica,europe_uefa-champions-league,2016-2017,Napoli,Benfica,4 - 2,6,6,True
+europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Paris SG 3 - 0 Basel,europe_uefa-champions-league,2016-2017,Paris SG,Basel,3 - 0,3,3,True
+france_ligue-1/2015-2016/2015-09-19 - 18-30 Reims 1 - 1 Paris SG,france_ligue-1,2015-2016,Reims,Paris SG,1 - 1,2,4,False
+france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz,france_ligue-1,2016-2017,Paris SG,Metz,3 - 0,3,3,True
+france_ligue-1/2016-2017/2016-09-09 - 21-45 Paris SG 1 - 1 St Etienne,france_ligue-1,2016-2017,Paris SG,St Etienne,1 - 1,2,2,True
+france_ligue-1/2016-2017/2016-09-20 - 22-00 Paris SG 3 - 0 Dijon,france_ligue-1,2016-2017,Paris SG,Dijon,3 - 0,3,3,True
+france_ligue-1/2016-2017/2016-10-23 - 21-45 Paris SG 0 - 0 Marseille,france_ligue-1,2016-2017,Paris SG,Marseille,0 - 0,0,0,False
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,france_ligue-1,2016-2017,Montpellier,Paris SG,3 - 0,3,3,True
+france_ligue-1/2016-2017/2017-03-04 - 19-00 Paris SG 1 - 0 Nancy,france_ligue-1,2016-2017,Paris SG,Nancy,1 - 0,1,1,True
+france_ligue-1/2016-2017/2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp,france_ligue-1,2016-2017,Paris SG,Guingamp,4 - 0,4,4,True
+france_ligue-1/2016-2017/2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG,france_ligue-1,2016-2017,St Etienne,Paris SG,0 - 5,5,5,True
+germany_bundesliga/2014-2015/2015-04-25 - 19-30 Bayern Munich 1 - 0 Hertha Berlin,germany_bundesliga,2014-2015,Bayern Munich,Hertha Berlin,1 - 0,1,1,True
+germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund,germany_bundesliga,2014-2015,Hoffenheim,Dortmund,1 - 1,2,2,True
+germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen,germany_bundesliga,2015-2016,Dortmund,Bayer Leverkusen,3 - 0,3,3,True
+germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,germany_bundesliga,2015-2016,Bayern Munich,Dortmund,5 - 1,6,6,True
+germany_bundesliga/2015-2016/2015-11-07 - 17-30 Bayern Munich 4 - 0 VfB Stuttgart,germany_bundesliga,2015-2016,Bayern Munich,VfB Stuttgart,4 - 0,4,4,True
+germany_bundesliga/2015-2016/2016-04-23 - 16-30 Hertha Berlin 0 - 2 Bayern Munich,germany_bundesliga,2015-2016,Hertha Berlin,Bayern Munich,0 - 2,2,2,True
+germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,germany_bundesliga,2016-2017,Dortmund,B. Monchengladbach,4 - 1,5,5,True
+germany_bundesliga/2016-2017/2017-02-25 - 17-30 SC Freiburg 0 - 3 Dortmund,germany_bundesliga,2016-2017,SC Freiburg,Dortmund,0 - 3,3,3,True
+italy_serie-a/2014-2015/2015-04-25 - 19-00 Udinese 2 - 1 AC Milan,italy_serie-a,2014-2015,Udinese,AC Milan,2 - 1,3,3,True
+italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,italy_serie-a,2014-2015,Lazio,Inter,1 - 2,3,3,True
+italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan,italy_serie-a,2014-2015,Sassuolo,AC Milan,3 - 2,5,5,True
+italy_serie-a/2015-2016/2015-09-26 - 21-45 Napoli 2 - 1 Juventus,italy_serie-a,2015-2016,Napoli,Juventus,2 - 1,3,3,True
+italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese,italy_serie-a,2016-2017,AS Roma,Udinese,4 - 0,4,4,True
+italy_serie-a/2016-2017/2016-09-18 - 21-45 Fiorentina 1 - 0 AS Roma,italy_serie-a,2016-2017,Fiorentina,AS Roma,1 - 0,1,1,True
+italy_serie-a/2016-2017/2016-09-21 - 21-45 Genoa 0 - 0 Napoli,italy_serie-a,2016-2017,Genoa,Napoli,0 - 0,0,0,False
+italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo,italy_serie-a,2016-2017,AC Milan,Sassuolo,4 - 3,7,7,True
+italy_serie-a/2016-2017/2016-10-29 - 21-45 Juventus 2 - 1 Napoli,italy_serie-a,2016-2017,Juventus,Napoli,2 - 1,3,3,True
+italy_serie-a/2016-2017/2016-11-05 - 22-45 Napoli 1 - 1 Lazio,italy_serie-a,2016-2017,Napoli,Lazio,1 - 1,2,2,True
+italy_serie-a/2016-2017/2016-12-12 - 23-00 AS Roma 1 - 0 AC Milan,italy_serie-a,2016-2017,AS Roma,AC Milan,1 - 0,1,1,True
+italy_serie-a/2016-2017/2017-01-22 - 22-45 AS Roma 1 - 0 Cagliari,italy_serie-a,2016-2017,AS Roma,Cagliari,1 - 0,1,1,True
+italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,italy_serie-a,2016-2017,Chievo,Napoli,1 - 3,4,4,True
+italy_serie-a/2016-2017/2017-03-12 - 22-45 Palermo 0 - 3 AS Roma,italy_serie-a,2016-2017,Palermo,AS Roma,0 - 3,3,3,True
+italy_serie-a/2016-2017/2017-04-02 - 21-45 Napoli 1 - 1 Juventus,italy_serie-a,2016-2017,Napoli,Juventus,1 - 1,2,2,True
+italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese,italy_serie-a,2016-2017,Napoli,Udinese,3 - 0,3,3,True
+italy_serie-a/2016-2017/2017-04-30 - 13-30 AS Roma 1 - 3 Lazio,italy_serie-a,2016-2017,AS Roma,Lazio,1 - 3,4,4,True
+italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,italy_serie-a,2016-2017,Napoli,Cagliari,3 - 1,4,4,True
+spain_laliga/2014-2015/2015-04-11 - 17-00 Real Madrid 3 - 0 Eibar,spain_laliga,2014-2015,Real Madrid,Eibar,3 - 0,3,3,True
+spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,spain_laliga,2014-2015,Sevilla,Barcelona,2 - 2,4,4,True
+spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,spain_laliga,2014-2015,Barcelona,Getafe,6 - 0,6,6,True
+spain_laliga/2014-2015/2015-05-02 - 19-00 Atl. Madrid 0 - 0 Ath Bilbao,spain_laliga,2014-2015,Atl. Madrid,Ath Bilbao,0 - 0,0,0,False
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,spain_laliga,2014-2015,Sevilla,Real Madrid,2 - 3,5,5,True
+spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,spain_laliga,2014-2015,Real Madrid,Getafe,7 - 3,10,10,True
+spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona,spain_laliga,2015-2016,Atl. Madrid,Barcelona,1 - 2,3,3,True
+spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,spain_laliga,2015-2016,Barcelona,Las Palmas,2 - 1,3,3,True
+spain_laliga/2015-2016/2015-10-24 - 17-00 Celta Vigo 1 - 3 Real Madrid,spain_laliga,2015-2016,Celta Vigo,Real Madrid,1 - 3,4,4,True
+spain_laliga/2015-2016/2015-12-13 - 22-30 Villarreal 1 - 0 Real Madrid,spain_laliga,2015-2016,Villarreal,Real Madrid,1 - 0,1,1,True
+spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,spain_laliga,2015-2016,Real Madrid,Rayo Vallecano,10 - 2,12,12,True
+spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid,spain_laliga,2015-2016,Valencia,Real Madrid,2 - 2,4,4,True
+spain_laliga/2015-2016/2016-01-09 - 22-30 Real Madrid 5 - 0 Dep. La Coruna,spain_laliga,2015-2016,Real Madrid,Dep. La Coruna,5 - 0,5,5,True
+spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,spain_laliga,2015-2016,Real Madrid,Ath Bilbao,4 - 2,6,6,True
+spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,spain_laliga,2015-2016,Real Madrid,Sevilla,4 - 0,4,4,True
+spain_laliga/2016-2017/2016-08-21 - 21-15 Real Sociedad 0 - 3 Real Madrid,spain_laliga,2016-2017,Real Sociedad,Real Madrid,0 - 3,3,4,False
+spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,spain_laliga,2016-2017,Leganes,Barcelona,1 - 5,6,6,True
+spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,spain_laliga,2016-2017,Celta Vigo,Barcelona,4 - 3,7,7,True
+spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,spain_laliga,2016-2017,Barcelona,Dep. La Coruna,4 - 0,4,4,True
+spain_laliga/2016-2017/2017-01-07 - 15-00 Real Madrid 5 - 0 Granada CF,spain_laliga,2016-2017,Real Madrid,Granada CF,5 - 0,5,5,True
+spain_laliga/2016-2017/2017-01-21 - 18-15 Real Madrid 2 - 1 Malaga,spain_laliga,2016-2017,Real Madrid,Malaga,2 - 1,3,3,True
+spain_laliga/2016-2017/2017-02-18 - 18-15 Real Madrid 2 - 0 Espanyol,spain_laliga,2016-2017,Real Madrid,Espanyol,2 - 0,2,2,True
+spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,spain_laliga,2016-2017,Real Madrid,Barcelona,2 - 3,5,5,True
+spain_laliga/2016-2017/2017-04-29 - 17-15 Real Madrid 2 - 1 Valencia,spain_laliga,2016-2017,Real Madrid,Valencia,2 - 1,3,3,True
+spain_laliga/2016-2017/2017-04-29 - 21-45 Espanyol 0 - 3 Barcelona,spain_laliga,2016-2017,Espanyol,Barcelona,0 - 3,3,3,True
+spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,spain_laliga,2016-2017,Las Palmas,Barcelona,1 - 4,5,6,False
+england_epl/2014-2015/2015-05-17 - 18-00 Manchester United 1 - 1 Arsenal,england_epl,2014-2015,Manchester United,Arsenal,1 - 1,2,2,True
+england_epl/2015-2016/2015-08-16 - 18-00 Manchester City 3 - 0 Chelsea,england_epl,2015-2016,Manchester City,Chelsea,3 - 0,3,3,True
+england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,england_epl,2015-2016,West Brom,Chelsea,2 - 3,5,5,True
+england_epl/2015-2016/2015-08-29 - 17-00 Liverpool 0 - 3 West Ham,england_epl,2015-2016,Liverpool,West Ham,0 - 3,3,3,True
+england_epl/2015-2016/2015-09-20 - 18-00 Southampton 2 - 3 Manchester United,england_epl,2015-2016,Southampton,Manchester United,2 - 3,5,5,True
+england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea,england_epl,2015-2016,Newcastle Utd,Chelsea,2 - 2,4,4,True
+england_epl/2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton,england_epl,2015-2016,Chelsea,Southampton,1 - 3,4,4,True
+england_epl/2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea,england_epl,2015-2016,West Ham,Chelsea,2 - 1,3,3,True
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,england_epl,2015-2016,Stoke City,Chelsea,1 - 0,1,1,True
+england_epl/2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham,england_epl,2015-2016,Arsenal,Tottenham,1 - 1,2,2,True
+england_epl/2015-2016/2015-12-28 - 20-30 Manchester United 0 - 0 Chelsea,england_epl,2015-2016,Manchester United,Chelsea,0 - 0,0,0,False
+england_epl/2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea,england_epl,2015-2016,Watford,Chelsea,0 - 0,0,0,False
+england_epl/2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea,england_epl,2015-2016,Norwich,Chelsea,1 - 2,3,3,True
+england_epl/2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool,england_epl,2016-2017,Tottenham,Liverpool,1 - 1,2,2,True
+england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,england_epl,2016-2017,Manchester United,Leicester,4 - 1,5,5,True
+england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,england_epl,2016-2017,Chelsea,Leicester,3 - 0,3,3,True
+england_epl/2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea,england_epl,2016-2017,Liverpool,Swansea,2 - 3,5,5,True
+england_epl/2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford,england_epl,2016-2017,Leicester,Watford,3 - 0,3,3,True
+europe_uefa-champions-league/2014-2015/2014-11-04 - 20-00 Zenit Petersburg 1 - 2 Bayer Leverkusen,europe_uefa-champions-league,2014-2015,Zenit Petersburg,Bayer Leverkusen,1 - 2,3,3,True
+europe_uefa-champions-league/2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona,europe_uefa-champions-league,2014-2015,Manchester City,Barcelona,1 - 2,3,5,False
+europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,europe_uefa-champions-league,2014-2015,Real Madrid,Schalke,3 - 4,7,10,False
+europe_uefa-champions-league/2014-2015/2015-03-17 - 22-45 Monaco 0 - 2 Arsenal,europe_uefa-champions-league,2014-2015,Monaco,Arsenal,0 - 2,2,3,False
+europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich,europe_uefa-champions-league,2014-2015,FC Porto,Bayern Munich,3 - 1,4,6,False
+europe_uefa-champions-league/2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid,europe_uefa-champions-league,2014-2015,Real Madrid,Atl. Madrid,1 - 0,1,2,False
+europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid,europe_uefa-champions-league,2014-2015,Juventus,Real Madrid,2 - 1,3,3,True
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb,europe_uefa-champions-league,2015-2016,Bayern Munich,D. Zagreb,5 - 0,5,5,True
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Real Madrid 1 - 0 Paris SG,europe_uefa-champions-league,2015-2016,Real Madrid,Paris SG,1 - 0,1,1,True
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City,europe_uefa-champions-league,2015-2016,Sevilla,Manchester City,1 - 3,4,4,True
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Shakhtar Donetsk 4 - 0 Malmo FF,europe_uefa-champions-league,2015-2016,Shakhtar Donetsk,Malmo FF,4 - 0,4,4,True
+europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid,europe_uefa-champions-league,2015-2016,Shakhtar Donetsk,Real Madrid,3 - 4,7,7,True
+europe_uefa-champions-league/2015-2016/2016-04-05 - 21-45 Bayern Munich 1 - 0 Benfica,europe_uefa-champions-league,2015-2016,Bayern Munich,Benfica,1 - 0,1,1,True
+europe_uefa-champions-league/2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli,europe_uefa-champions-league,2016-2017,Besiktas,Napoli,1 - 1,2,2,True
+europe_uefa-champions-league/2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona,europe_uefa-champions-league,2016-2017,Manchester City,Barcelona,3 - 1,4,4,True
+europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG,europe_uefa-champions-league,2016-2017,Arsenal,Paris SG,2 - 2,4,4,True
+europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,europe_uefa-champions-league,2016-2017,Barcelona,Paris SG,6 - 1,7,7,True
+europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid,europe_uefa-champions-league,2016-2017,Bayern Munich,Real Madrid,1 - 2,3,3,True
+europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid,europe_uefa-champions-league,2016-2017,Real Madrid,Atl. Madrid,3 - 0,3,3,True
+france_ligue-1/2016-2017/2016-08-28 - 21-45 Monaco 3 - 1 Paris SG,france_ligue-1,2016-2017,Monaco,Paris SG,3 - 1,4,4,True
+france_ligue-1/2016-2017/2016-11-30 - 23-00 Paris SG 2 - 0 Angers,france_ligue-1,2016-2017,Paris SG,Angers,2 - 0,2,3,False
+germany_bundesliga/2014-2015/2015-05-09 - 16-30 Bayern Munich 0 - 1 FC Augsburg,germany_bundesliga,2014-2015,Bayern Munich,FC Augsburg,0 - 1,1,1,True
+germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,germany_bundesliga,2015-2016,Bayern Munich,Bayer Leverkusen,3 - 0,3,3,True
+germany_bundesliga/2015-2016/2015-09-12 - 16-30 Bayern Munich 2 - 1 FC Augsburg,germany_bundesliga,2015-2016,Bayern Munich,FC Augsburg,2 - 1,3,3,True
+germany_bundesliga/2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln,germany_bundesliga,2015-2016,Bayern Munich,FC Koln,4 - 0,4,4,True
+germany_bundesliga/2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke,germany_bundesliga,2015-2016,Dortmund,Schalke,3 - 2,5,5,True
+germany_bundesliga/2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund,germany_bundesliga,2016-2017,RB Leipzig,Dortmund,1 - 0,1,1,True
+germany_bundesliga/2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund,germany_bundesliga,2016-2017,Bayer Leverkusen,Dortmund,2 - 0,2,2,True
+germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,germany_bundesliga,2016-2017,Hamburger SV,Dortmund,2 - 5,7,7,True
+germany_bundesliga/2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich,germany_bundesliga,2016-2017,Dortmund,Bayern Munich,1 - 0,1,1,True
+germany_bundesliga/2016-2017/2016-12-16 - 22-30 Hoffenheim 2 - 2 Dortmund,germany_bundesliga,2016-2017,Hoffenheim,Dortmund,2 - 2,4,4,True
+germany_bundesliga/2016-2017/2017-01-21 - 17-30 SV Werder Bremen 1 - 2 Dortmund,germany_bundesliga,2016-2017,SV Werder Bremen,Dortmund,1 - 2,3,3,True
+germany_bundesliga/2016-2017/2017-01-29 - 19-30 1. FSV Mainz 05 1 - 1 Dortmund,germany_bundesliga,2016-2017,1. FSV Mainz 05,Dortmund,1 - 1,2,1,False
+germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,germany_bundesliga,2016-2017,Dortmund,Bayer Leverkusen,6 - 2,8,8,True
+germany_bundesliga/2016-2017/2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln,germany_bundesliga,2016-2017,Dortmund,FC Koln,0 - 0,0,1,False
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,italy_serie-a,2014-2015,Juventus,Fiorentina,3 - 2,5,5,True
+italy_serie-a/2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli,italy_serie-a,2015-2016,AC Milan,Empoli,2 - 1,3,3,True
+italy_serie-a/2015-2016/2015-09-20 - 16-00 Genoa 0 - 2 Juventus,italy_serie-a,2015-2016,Genoa,Juventus,0 - 2,2,2,True
+italy_serie-a/2015-2016/2015-09-27 - 21-45 Inter 1 - 4 Fiorentina,italy_serie-a,2015-2016,Inter,Fiorentina,1 - 4,5,5,True
+italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan,italy_serie-a,2016-2017,Napoli,AC Milan,4 - 2,6,6,True
+italy_serie-a/2016-2017/2016-09-11 - 16-00 AC Milan 0 - 1 Udinese,italy_serie-a,2016-2017,AC Milan,Udinese,0 - 1,1,1,True
+italy_serie-a/2016-2017/2016-09-20 - 21-45 AC Milan 2 - 0 Lazio,italy_serie-a,2016-2017,AC Milan,Lazio,2 - 0,2,2,True
+italy_serie-a/2016-2017/2016-09-24 - 21-45 Napoli 2 - 0 Chievo,italy_serie-a,2016-2017,Napoli,Chievo,2 - 0,2,2,True
+italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,italy_serie-a,2016-2017,Torino,AS Roma,3 - 1,4,4,True
+italy_serie-a/2016-2017/2016-09-25 - 21-45 Fiorentina 0 - 0 AC Milan,italy_serie-a,2016-2017,Fiorentina,AC Milan,0 - 0,0,0,False
+italy_serie-a/2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter,italy_serie-a,2016-2017,AS Roma,Inter,2 - 1,3,3,True
+italy_serie-a/2016-2017/2016-11-20 - 17-00 Atalanta 2 - 1 AS Roma,italy_serie-a,2016-2017,Atalanta,AS Roma,2 - 1,3,3,True
+italy_serie-a/2016-2017/2016-11-26 - 22-45 Empoli 1 - 4 AC Milan,italy_serie-a,2016-2017,Empoli,AC Milan,1 - 4,5,5,True
+italy_serie-a/2016-2017/2016-12-04 - 17-00 Lazio 0 - 2 AS Roma,italy_serie-a,2016-2017,Lazio,AS Roma,0 - 2,2,2,True
+italy_serie-a/2016-2017/2017-01-08 - 17-00 Genoa 0 - 1 AS Roma,italy_serie-a,2016-2017,Genoa,AS Roma,0 - 1,1,1,True
+italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma,italy_serie-a,2016-2017,Sampdoria,AS Roma,3 - 2,5,5,True
+italy_serie-a/2016-2017/2017-02-07 - 22-45 AS Roma 4 - 0 Fiorentina,italy_serie-a,2016-2017,AS Roma,Fiorentina,4 - 0,4,4,True
+italy_serie-a/2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta,italy_serie-a,2016-2017,Napoli,Atalanta,0 - 2,2,2,True
+italy_serie-a/2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma,italy_serie-a,2016-2017,Inter,AS Roma,1 - 3,4,4,True
+italy_serie-a/2016-2017/2017-04-01 - 21-45 AS Roma 2 - 0 Empoli,italy_serie-a,2016-2017,AS Roma,Empoli,2 - 0,2,2,True
+italy_serie-a/2016-2017/2017-04-30 - 21-45 Inter 0 - 1 Napoli,italy_serie-a,2016-2017,Inter,Napoli,0 - 1,1,1,True
+italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina,italy_serie-a,2016-2017,Napoli,Fiorentina,4 - 1,5,5,True
+spain_laliga/2014-2015/2015-02-14 - 20-00 Real Madrid 2 - 0 Dep. La Coruna,spain_laliga,2014-2015,Real Madrid,Dep. La Coruna,2 - 0,2,2,True
+spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,spain_laliga,2014-2015,Real Madrid,Malaga,3 - 1,4,4,True
+spain_laliga/2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona,spain_laliga,2014-2015,Espanyol,Barcelona,0 - 2,2,2,True
+spain_laliga/2014-2015/2015-04-29 - 21-00 Real Madrid 3 - 0 Almeria,spain_laliga,2014-2015,Real Madrid,Almeria,3 - 0,3,3,True
+spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,spain_laliga,2014-2015,Cordoba,Barcelona,0 - 8,8,8,True
+spain_laliga/2014-2015/2015-05-09 - 19-00 Barcelona 2 - 0 Real Sociedad,spain_laliga,2014-2015,Barcelona,Real Sociedad,2 - 0,2,2,True
+spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,spain_laliga,2015-2016,Real Madrid,Betis,5 - 0,5,5,True
+spain_laliga/2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF,spain_laliga,2015-2016,Real Madrid,Granada CF,1 - 0,1,1,True
+spain_laliga/2015-2016/2015-11-08 - 18-00 Barcelona 3 - 0 Villarreal,spain_laliga,2015-2016,Barcelona,Villarreal,3 - 0,3,3,True
+spain_laliga/2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe,spain_laliga,2015-2016,Real Madrid,Getafe,4 - 1,5,5,True
+spain_laliga/2015-2016/2015-12-30 - 18-00 Real Madrid 3 - 1 Real Sociedad,spain_laliga,2015-2016,Real Madrid,Real Sociedad,3 - 1,4,4,True
+spain_laliga/2015-2016/2016-02-27 - 18-00 Real Madrid 0 - 1 Atl. Madrid,spain_laliga,2015-2016,Real Madrid,Atl. Madrid,0 - 1,1,1,True
+spain_laliga/2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid,spain_laliga,2015-2016,Levante,Real Madrid,1 - 3,4,4,True
+spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,spain_laliga,2015-2016,Real Madrid,Valencia,3 - 2,5,5,True
+spain_laliga/2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid,spain_laliga,2015-2016,Dep. La Coruna,Real Madrid,0 - 2,2,2,True
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,spain_laliga,2016-2017,Barcelona,Alaves,1 - 2,3,3,True
+spain_laliga/2016-2017/2016-09-21 - 21-00 Real Madrid 1 - 1 Villarreal,spain_laliga,2016-2017,Real Madrid,Villarreal,1 - 1,2,2,True
+spain_laliga/2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid,spain_laliga,2016-2017,Las Palmas,Real Madrid,2 - 2,4,4,True
+spain_laliga/2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon,spain_laliga,2016-2017,Real Madrid,Gijon,2 - 1,3,3,True
+spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,spain_laliga,2016-2017,Barcelona,Espanyol,4 - 1,5,5,True
+spain_laliga/2016-2017/2017-02-11 - 22-45 Osasuna 1 - 3 Real Madrid,spain_laliga,2016-2017,Osasuna,Real Madrid,1 - 3,4,4,True
+spain_laliga/2016-2017/2017-03-12 - 22-45 Real Madrid 2 - 1 Betis,spain_laliga,2016-2017,Real Madrid,Betis,2 - 1,3,3,True
+spain_laliga/2016-2017/2017-04-02 - 17-15 Real Madrid 3 - 0 Alaves,spain_laliga,2016-2017,Real Madrid,Alaves,3 - 0,3,3,True
+spain_laliga/2016-2017/2017-04-08 - 21-45 Malaga 2 - 0 Barcelona,spain_laliga,2016-2017,Malaga,Barcelona,2 - 0,2,2,True
+spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,spain_laliga,2016-2017,Barcelona,Osasuna,7 - 1,8,9,False
