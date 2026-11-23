@@ -1,0 +1,558 @@
+game,split,half,time_s,threshold
+europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid,train,2,2440.0,0.96
+italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese,train,2,1459.0,0.96
+germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,train,1,1059.0,0.96
+germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,train,1,2355.5,0.96
+germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,train,1,2644.5,0.96
+germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,train,2,2732.5,0.96
+england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea,train,2,284.0,0.96
+england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea,train,2,872.0,0.96
+england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea,train,2,2007.5,0.96
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,train,1,227.5,0.96
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,train,1,652.5,0.96
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,train,1,793.0,0.96
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,train,1,874.5,0.96
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,train,1,1095.0,0.96
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,train,1,2375.5,0.96
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,train,1,2624.0,0.96
+england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,train,2,635.0,0.96
+spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,train,1,1466.5,0.96
+spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,train,2,520.5,0.96
+spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,train,2,2608.0,0.96
+spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,train,2,2724.0,0.96
+spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,train,2,2796.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Atl. Madrid 2 - 0 Galatasaray,train,2,1771.5,0.96
+italy_serie-a/2014-2015/2015-05-03 - 21-45 Napoli 3 - 0 AC Milan,train,2,583.5,0.96
+italy_serie-a/2014-2015/2015-05-03 - 21-45 Napoli 3 - 0 AC Milan,train,2,2270.5,0.96
+germany_bundesliga/2015-2016/2016-04-23 - 16-30 Hertha Berlin 0 - 2 Bayern Munich,train,2,399.5,0.96
+germany_bundesliga/2015-2016/2016-04-23 - 16-30 Hertha Berlin 0 - 2 Bayern Munich,train,2,1877.0,0.96
+germany_bundesliga/2015-2016/2016-04-23 - 16-30 Hertha Berlin 0 - 2 Bayern Munich,train,2,2025.5,0.96
+spain_laliga/2016-2017/2016-10-29 - 17-15 Alaves 1 - 4 Real Madrid,train,1,1967.0,0.96
+spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,train,1,834.5,0.96
+spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,train,1,1424.0,0.96
+spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,train,2,1154.5,0.96
+spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,train,2,1314.5,0.96
+spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,train,2,1399.0,0.96
+spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,train,2,2762.0,0.96
+europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,train,1,2365.0,0.96
+europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,train,2,965.0,0.96
+europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,train,2,2979.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,train,1,2512.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,train,2,268.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,train,2,339.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,train,2,668.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,train,2,997.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,train,2,2471.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,train,2,2667.0,0.96
+england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,train,1,1309.5,0.96
+england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,train,1,1478.0,0.96
+england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,train,1,1594.0,0.96
+england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,train,1,2161.5,0.96
+england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,train,1,2341.0,0.96
+england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,train,1,2477.0,0.96
+italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari,train,1,1047.0,0.96
+italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari,train,1,2617.5,0.96
+italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari,train,2,1043.5,0.96
+italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari,train,2,1112.0,0.96
+italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari,train,2,2422.5,0.96
+spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona,train,1,2632.5,0.96
+england_epl/2015-2016/2016-04-09 - 19-30 Manchester City 2 - 1 West Brom,train,1,302.0,0.96
+england_epl/2015-2016/2016-04-09 - 19-30 Manchester City 2 - 1 West Brom,train,1,1089.0,0.96
+england_epl/2015-2016/2016-04-09 - 19-30 Manchester City 2 - 1 West Brom,train,2,1227.0,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,1,387.5,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,1,1886.0,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,1,2617.5,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,1,2679.5,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,2,1555.5,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,2,1700.5,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,2,1960.0,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,2,2045.5,0.96
+england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,train,2,2529.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,train,1,897.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,train,1,1151.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,train,2,1375.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,train,2,1551.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,train,2,1624.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,train,2,1753.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,train,2,2026.5,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,1,1117.0,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,1,1691.5,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,2,22.0,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,2,162.0,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,2,993.0,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,2,1158.0,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,2,1335.0,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,2,1662.0,0.96
+france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,train,2,1774.5,0.96
+italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,train,1,326.0,0.96
+italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,train,1,1835.0,0.96
+spain_laliga/2016-2017/2017-04-08 - 21-45 Malaga 2 - 0 Barcelona,train,1,1892.5,0.96
+spain_laliga/2016-2017/2017-04-08 - 21-45 Malaga 2 - 0 Barcelona,train,2,2698.0,0.96
+spain_laliga/2016-2017/2017-01-29 - 14-00 Betis 1 - 1 Barcelona,train,2,1744.0,0.96
+spain_laliga/2016-2017/2017-01-29 - 14-00 Betis 1 - 1 Barcelona,train,2,2685.5,0.96
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,train,1,85.5,0.96
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,train,1,1727.5,0.96
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,train,2,392.0,0.96
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,train,2,493.5,0.96
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,train,2,569.0,0.96
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,train,2,1146.0,0.96
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,train,2,1326.0,0.96
+germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,train,2,1909.0,0.96
+france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,train,1,2606.5,0.96
+france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,train,2,170.0,0.96
+france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,train,2,331.5,0.96
+france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,train,2,2104.5,0.96
+france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,train,2,2181.0,0.96
+france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,train,2,2699.5,0.96
+italy_serie-a/2016-2017/2016-10-15 - 16-00 Napoli 1 - 3 AS Roma,train,1,190.5,0.96
+germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,train,1,1817.5,0.96
+germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,train,2,339.5,0.96
+germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,train,2,403.5,0.96
+germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,train,2,685.0,0.96
+germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,train,2,1431.5,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,1,135.0,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,1,820.0,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,1,993.5,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,1,1115.5,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,1,1267.0,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,1,1673.0,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,2,56.5,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,2,299.5,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,2,465.5,0.96
+england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,train,2,527.0,0.96
+spain_laliga/2016-2017/2017-04-02 - 17-15 Real Madrid 3 - 0 Alaves,train,1,1817.5,0.96
+spain_laliga/2016-2017/2017-04-02 - 17-15 Real Madrid 3 - 0 Alaves,train,2,2392.5,0.96
+italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,train,1,1170.5,0.96
+italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,train,1,2054.5,0.96
+italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,train,1,2631.5,0.96
+italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,train,2,121.0,0.96
+italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,train,2,1677.5,0.96
+england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,train,1,1051.5,0.96
+england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,train,1,1924.5,0.96
+england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,train,1,2587.0,0.96
+spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia,train,1,1860.0,0.96
+spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia,train,2,637.5,0.96
+spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia,train,2,2286.5,0.96
+france_ligue-1/2016-2017/2016-09-23 - 21-45 Toulouse 2 - 0 Paris SG,train,2,529.0,0.96
+europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,train,1,1028.5,0.96
+europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,train,1,1902.5,0.96
+europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,train,1,2042.0,0.96
+europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,train,2,2032.5,0.96
+europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,train,2,2280.5,0.96
+europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,train,2,2694.5,0.96
+spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,train,2,156.5,0.96
+spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,train,2,230.5,0.96
+spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,train,2,340.5,0.96
+spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,train,2,1110.5,0.96
+spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,train,1,526.0,0.96
+spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,train,1,2354.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,1,104.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,1,1204.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,2,269.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,2,418.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,2,1024.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,2,1369.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,2,1669.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,2,1868.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,train,2,2731.0,0.96
+italy_serie-a/2016-2017/2017-03-12 - 22-45 Palermo 0 - 3 AS Roma,train,2,2094.0,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,1,306.5,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,1,537.0,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,1,1232.0,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,1,1571.0,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,1,1638.0,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,1,2643.5,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,2,264.0,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,2,383.0,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,2,1012.5,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,2,1333.5,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,2,1631.5,0.96
+germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,train,2,2472.5,0.96
+england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,train,1,383.0,0.96
+england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,train,1,1937.0,0.96
+england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,train,2,1088.5,0.96
+england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,train,2,2070.0,0.96
+italy_serie-a/2016-2017/2016-12-22 - 22-45 AS Roma 3 - 1 Chievo,train,2,1211.5,0.96
+italy_serie-a/2016-2017/2016-12-22 - 22-45 AS Roma 3 - 1 Chievo,train,2,1717.5,0.96
+spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,train,1,890.5,0.96
+spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,train,1,1982.5,0.96
+spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,train,1,2606.5,0.96
+spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,train,2,1025.0,0.96
+spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,train,2,1107.5,0.96
+spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,train,2,2094.5,0.96
+spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,train,1,604.0,0.96
+spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,train,1,1767.0,0.96
+spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,train,2,2241.5,0.96
+spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,train,2,2363.5,0.96
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,train,1,1131.5,0.96
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,train,1,2606.5,0.96
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,train,2,287.5,0.96
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,train,2,431.5,0.96
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,train,2,549.0,0.96
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,train,2,853.0,0.96
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,train,2,917.0,0.96
+france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,train,2,1097.0,0.96
+spain_laliga/2016-2017/2017-02-11 - 22-45 Osasuna 1 - 3 Real Madrid,train,1,1930.0,0.96
+germany_bundesliga/2015-2016/2016-01-31 - 19-30 Bayern Munich 2 - 0 Hoffenheim,train,1,401.0,0.96
+germany_bundesliga/2015-2016/2016-01-31 - 19-30 Bayern Munich 2 - 0 Hoffenheim,train,1,1110.0,0.96
+germany_bundesliga/2015-2016/2016-01-31 - 19-30 Bayern Munich 2 - 0 Hoffenheim,train,1,1348.5,0.96
+germany_bundesliga/2015-2016/2016-01-31 - 19-30 Bayern Munich 2 - 0 Hoffenheim,train,1,1909.5,0.96
+germany_bundesliga/2015-2016/2016-01-31 - 19-30 Bayern Munich 2 - 0 Hoffenheim,train,2,1118.5,0.96
+italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,train,2,156.0,0.96
+italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,train,2,581.0,0.96
+italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,train,2,661.0,0.96
+italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,train,2,1181.5,0.96
+italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,train,2,1719.5,0.96
+england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal,train,1,1388.0,0.96
+england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal,train,1,1527.5,0.96
+england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal,train,2,1444.0,0.96
+england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal,train,2,2365.0,0.96
+germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,train,1,916.0,0.96
+germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,train,1,1400.5,0.96
+germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,train,1,1664.0,0.96
+germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,train,1,2430.5,0.96
+germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,train,2,839.0,0.96
+italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,train,1,308.5,0.96
+italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,train,1,800.5,0.96
+italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,train,1,1069.5,0.96
+italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,train,1,1886.0,0.96
+italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,train,1,2183.5,0.96
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,train,1,381.0,0.96
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,train,1,2185.0,0.96
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,train,2,127.0,0.96
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,train,2,499.5,0.96
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,train,2,1063.5,0.96
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,train,2,1955.0,0.96
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,train,2,2332.0,0.96
+germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,train,2,2554.5,0.96
+spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,train,1,1231.0,0.96
+spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,train,1,1870.5,0.96
+spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,train,1,2682.0,0.96
+spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,train,2,1384.5,0.96
+spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,train,2,2178.0,0.96
+europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli,train,1,448.0,0.96
+europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli,train,2,223.0,0.96
+italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,train,1,861.5,0.96
+italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,train,2,905.0,0.96
+italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,train,2,1008.0,0.96
+italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,train,2,1776.0,0.96
+italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,train,2,2147.0,0.96
+england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,train,1,203.0,0.96
+england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,train,1,411.5,0.96
+england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,train,2,1313.5,0.96
+england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,train,2,1718.0,0.96
+england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,train,2,2228.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,1,1976.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,1,2300.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,1,2671.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,59.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,215.0,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,339.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,880.0,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,995.0,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,1118.0,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,1276.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,1391.0,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,1561.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,1753.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,1821.0,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,1951.0,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,2146.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,2284.0,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,2376.5,0.96
+spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,train,2,2455.0,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,train,1,64.5,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,train,1,937.0,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,train,1,1545.5,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,train,1,1771.5,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,train,1,2200.5,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,train,2,1211.0,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,train,2,2415.0,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,train,2,2800.0,0.96
+italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,train,2,453.5,0.96
+italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,train,2,524.5,0.96
+italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,train,2,1373.0,0.96
+italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,train,2,1495.0,0.96
+italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,train,2,2370.5,0.96
+italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,train,2,2475.5,0.96
+italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,train,2,2788.5,0.96
+england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal,train,1,316.5,0.96
+england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal,train,1,723.0,0.96
+england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal,train,1,848.0,0.96
+england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal,train,1,2009.5,0.96
+england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal,train,1,2170.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,train,1,397.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,train,1,536.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,train,1,2366.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,train,2,763.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,train,2,1345.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,train,2,2199.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,train,2,2569.0,0.96
+england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,train,1,294.0,0.96
+england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,train,1,2030.0,0.96
+england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,train,1,2118.5,0.96
+england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,train,1,2540.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,0.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,271.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,347.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,468.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,789.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,865.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,1093.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,1514.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,1881.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,2022.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,2136.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,1,2651.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,298.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,452.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,558.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,750.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,863.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,975.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,1451.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,1978.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,2121.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,2267.5,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,2369.0,0.96
+england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,train,2,2601.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,train,1,515.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,train,1,1015.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,train,1,2051.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,train,1,2137.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,train,1,2371.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,train,1,2516.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,train,2,299.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,train,2,2684.5,0.96
+italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,train,1,0.5,0.96
+italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,train,1,1313.5,0.96
+italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,train,1,2621.5,0.96
+italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,train,2,1160.0,0.96
+italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,train,2,1366.5,0.96
+italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,train,2,2290.0,0.96
+europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Real Madrid 4 - 0 Ludogorets,train,1,1099.0,0.96
+europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Real Madrid 4 - 0 Ludogorets,train,1,1183.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,106.0,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,518.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,790.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,1332.0,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,1422.0,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,1486.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,1700.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,1894.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,2166.0,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,2284.0,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,1,2500.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,2,518.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,2,771.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,2,919.0,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,2,1102.5,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,2,1654.0,0.96
+france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,train,2,1916.0,0.96
+italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,train,1,2076.5,0.96
+italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,train,1,2162.5,0.96
+spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,train,1,1037.5,0.96
+spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,train,2,1379.0,0.96
+spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,train,2,2640.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,1,26.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,1,123.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,1,226.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,1,332.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,1,432.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,1,538.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,1,709.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,132.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,253.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,345.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,493.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,598.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,735.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,805.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,904.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,989.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1053.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1114.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1181.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1304.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1366.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1461.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1524.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1668.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1797.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,1939.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,2078.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,2229.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,2420.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,2528.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,2600.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,2673.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,train,2,2736.0,0.96
+spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,train,1,52.5,0.96
+spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,train,1,805.5,0.96
+spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,train,2,827.0,0.96
+spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,train,2,1256.5,0.96
+spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,train,2,1916.5,0.96
+spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,train,2,2487.0,0.96
+england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,val,1,22.5,0.96
+england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,val,1,2001.5,0.96
+england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,val,1,2136.5,0.96
+england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,val,1,2411.5,0.96
+england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,val,2,703.0,0.96
+spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,val,1,2297.0,0.96
+spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,val,2,96.5,0.96
+spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,val,2,241.5,0.96
+spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,val,2,932.5,0.96
+spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,val,2,2586.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-25 - 20-00 CSKA Moscow 0 - 2 Wolfsburg,val,2,991.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-25 - 20-00 CSKA Moscow 0 - 2 Wolfsburg,val,2,2341.5,0.96
+italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino,val,2,1177.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,96.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,397.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,528.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,622.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,747.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,907.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,1010.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,1356.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,1482.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,1660.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,2108.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,2190.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,1,2769.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,198.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,301.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,487.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,743.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,982.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,1057.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,1384.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,1881.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,2041.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,2180.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,2405.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,2559.5,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,2627.0,0.96
+spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,val,2,2751.5,0.96
+germany_bundesliga/2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich,val,1,602.0,0.96
+germany_bundesliga/2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich,val,1,1074.5,0.96
+germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,val,1,121.0,0.96
+germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,val,1,402.5,0.96
+germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,val,1,1685.0,0.96
+germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,val,2,691.0,0.96
+germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,val,2,2402.5,0.96
+europe_uefa-champions-league/2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona,val,1,173.0,0.96
+europe_uefa-champions-league/2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona,val,2,688.0,0.96
+england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,val,1,912.0,0.96
+england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,val,1,1330.0,0.96
+england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,val,1,1715.5,0.96
+england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,val,1,1790.0,0.96
+england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,val,2,2647.5,0.96
+england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,val,1,747.0,0.96
+england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,val,1,2091.0,0.96
+england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,val,2,491.5,0.96
+england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,val,2,814.5,0.96
+england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,val,2,1615.5,0.96
+italy_serie-a/2016-2017/2016-09-16 - 21-45 Sampdoria 0 - 1 AC Milan,val,2,2379.5,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,1,1614.5,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,1,1732.5,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,1,1985.5,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,1,2256.5,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,1,2363.5,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,1,2689.5,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,2,5.0,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,2,446.0,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,2,570.0,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,2,1746.5,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,2,2048.0,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,2,2137.0,0.96
+france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,val,2,2257.0,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,190.0,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,389.0,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,543.0,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,844.0,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,1335.5,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,1454.5,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,1716.0,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,1959.5,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,2030.0,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,2193.5,0.96
+italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,val,2,2518.0,0.96
+spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,val,1,1828.5,0.96
+spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,val,2,9.0,0.96
+spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,val,2,781.5,0.96
+spain_laliga/2016-2017/2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona,val,1,2386.0,0.96
+spain_laliga/2016-2017/2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona,val,2,1725.0,0.96
+england_epl/2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham,test,2,1862.0,0.96
+germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,test,1,1549.5,0.96
+germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,test,1,1751.0,0.96
+germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,test,2,260.0,0.96
+germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,test,2,548.5,0.96
+germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,test,2,873.5,0.96
+spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,test,1,328.5,0.96
+spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,test,1,1349.5,0.96
+spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,test,2,514.0,0.96
+spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,test,2,837.5,0.96
+spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,test,2,943.5,0.96
+spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,test,2,1099.5,0.96
+spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,test,2,1564.5,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,test,1,219.5,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,test,2,1176.0,0.96
+england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,test,2,2723.5,0.96
+spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,test,1,712.5,0.96
+spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,test,1,2151.5,0.96
+spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,test,1,2239.5,0.96
+spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,test,2,304.5,0.96
+spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,test,2,2207.5,0.96
+italy_serie-a/2014-2015/2015-05-16 - 19-00 Inter 1 - 2 Juventus,test,1,1303.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,test,1,782.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,test,1,1040.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,test,2,64.5,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,test,2,264.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,test,2,541.0,0.96
+europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,test,2,887.0,0.96
+italy_serie-a/2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter,test,1,267.5,0.96
+italy_serie-a/2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter,test,2,1591.0,0.96
+spain_laliga/2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid,test,1,1492.0,0.96
+spain_laliga/2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid,test,1,2009.0,0.96
+spain_laliga/2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid,test,2,1590.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb,test,1,1427.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb,test,2,581.5,0.96
+england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,test,1,165.0,0.96
+england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,test,1,409.0,0.96
+england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,test,1,843.0,0.96
+england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,test,2,889.0,0.96
+england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,test,2,2064.5,0.96
+spain_laliga/2015-2016/2015-11-21 - 20-15 Real Madrid 0 - 4 Barcelona,test,1,2315.5,0.96
+italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,test,1,431.0,0.96
+italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,test,1,1438.0,0.96
+italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,test,2,554.5,0.96
+italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,test,2,1306.5,0.96
+italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,test,2,1456.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,195.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,267.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,335.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,815.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,1287.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,1357.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,1596.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,1754.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,1857.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,2133.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,1,2293.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,107.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,372.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,497.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,566.0,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,1228.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,1517.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,2008.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,2225.5,0.96
+europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,test,2,2376.5,0.96
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,test,2,256.5,0.96
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,test,2,693.5,0.96
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,test,2,902.5,0.96
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,test,2,1918.0,0.96
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,test,2,2087.0,0.96
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,test,2,2151.5,0.96
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,test,2,2397.5,0.96
+france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,test,2,2484.0,0.96

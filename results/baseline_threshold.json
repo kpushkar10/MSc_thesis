@@ -1,0 +1,9 @@
+{
+  "threshold": 0.96,
+  "tuned_on": "val",
+  "n_matches": 15,
+  "mean_f1": 0.4407,
+  "mean_precision": 0.4635,
+  "mean_recall": 0.5189,
+  "mean_events_per_match": 5.93
+}
