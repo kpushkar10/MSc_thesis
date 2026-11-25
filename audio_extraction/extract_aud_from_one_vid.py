@@ -33,7 +33,7 @@ def extract_audio(video, out):
             str(out),
         ]
 
-    subprocess.run(command, check='True')
+    subprocess.run(command, check=True)
 
 def vid_duration(vid_path):
     # returns duration of video in seconds
