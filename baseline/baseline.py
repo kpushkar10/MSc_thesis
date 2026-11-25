@@ -333,7 +333,6 @@ if __name__ == "__main__":
     elif action == "detect":
         threshold = float(sys.argv[3]) if len(sys.argv) > 3 else 0.9
         check_detect()
-        exit()
         check_detect_on_match(number, threshold)
     elif action == "tune":
         tune()
